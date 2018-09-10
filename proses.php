@@ -1,5 +1,4 @@
 <?php
-<?php
 	function rekursif($kolom){
 		global $i;
 		rekursif2($i, $kolom);
@@ -37,5 +36,4 @@
 	foreach ($ganjil as $bilganjil) {
 		echo $bilganjil . ',';
 	}
-?>
 ?>
